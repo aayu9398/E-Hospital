@@ -29,7 +29,7 @@ import java.time.LocalDateTime;
 	System.out.print("\t\t\t\t\t|                                                                                           |\n");
 	System.out.print("\t\t\t\t\t|                                                                                           |\n");
 	System.out.print("\t\t\t\t\t|                                         -Brought To You by                                |\n");
-	System.out.print("\t\t\t\t\t|                                      	 Ayush Bhardwaj,shubham,himanshu         |\n");
+	System.out.print("\t\t\t\t\t|                                      	 Ayush Bhardwaj         |\n");
 	System.out.print("\t\t\t\t\t|___________________________________________________________________________________________|\n");
 	}
 	//Declaring variales to be used
